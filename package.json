@@ -7,6 +7,10 @@
   "author": "Ahmad Aidil Fitri <ahmdaidil@gmail.com>",
   "license": "WTFPL",
   "private": false,
+  "scripts": {
+    "start": "webpack-dev-server --mode=development",
+    "build": "webpack"
+  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
