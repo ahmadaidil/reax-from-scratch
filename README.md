@@ -1,3 +1,3 @@
 ## Reax from scratch
 
-Setup React v16 from scratch with webpack 4
+React setup v16 from scratch with webpack 4

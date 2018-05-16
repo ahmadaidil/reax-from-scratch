@@ -1,7 +1,7 @@
 {
   "name": "reax-from-scratch",
   "version": "0.1.0",
-  "description": "Setup React from scratch with webpack 4",
+  "description": "React setup from scratch with webpack 4",
   "main": "index.js",
   "repository": "https://github.com/ahmadaidil/reax-from-scratch.git",
   "author": "Ahmad Aidil Fitri <ahmdaidil@gmail.com>",
