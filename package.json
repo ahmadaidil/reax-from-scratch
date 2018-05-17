@@ -8,8 +8,9 @@
   "license": "WTFPL",
   "private": false,
   "scripts": {
-    "start": "webpack-dev-server --mode=development",
-    "build": "webpack"
+    "start:dev": "webpack-dev-server --config ./webpack.dev.js",
+    "start:prod": "webpack-dev-server --config ./webpack.prod.js",
+    "build": "webpack --config ./webpack.prod.js"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
